@@ -1,5 +1,7 @@
 # streaming-01-getting-started
 
+## Hello there! My name is Levi and this is the first repo for my masters level course in streaming data. 
+
 > Get started with Python for streaming analytics
 
 We assume no prior programming experience and that you want to 
